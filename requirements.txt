@@ -1,0 +1,4 @@
+typer[all]
+pymongo
+python-dotenv
+requests
