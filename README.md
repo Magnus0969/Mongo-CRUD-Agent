@@ -109,9 +109,9 @@ requests
 
 ---
 
-## 🧪 AI Agent: Refract
+## 🧪 AI Agent: mongoai
 
-The LLM agent, named **Refract**, uses prompt engineering + local inference through Ollama and converts user instructions into database operations using a custom parsing logic.
+The LLM agent, named **mongoai**, uses prompt engineering + local inference through Ollama and converts user instructions into database operations using a custom parsing logic.
 
 ---
 
